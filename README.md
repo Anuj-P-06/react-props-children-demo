@@ -1,12 +1,65 @@
-# React + Vite
+# 🧩 React Props & Children Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, beginner-friendly React project that demonstrates how to pass **props** from a parent component to a child, and how to use the **React `children` prop** for reusable components.
 
-Currently, two official plugins are available:
+> Built using **React + Vite + Tailwind CSS**  
+> 🚀 Live Demo: [https://your-live-url.com](https://your-live-url.com) ← *(Replace this once deployed)*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1919" height="926" alt="Image" src="https://github.com/user-attachments/assets/4465ebea-dfa2-4238-894e-c4edcc3bd166" />
+
+<img width="1919" height="920" alt="Image" src="https://github.com/user-attachments/assets/ffeae175-2bca-4b42-967f-be60f3270caa" />
+
+---
+
+## 🧠 Features
+
+- ✅ Controlled input using `useState`
+- ✅ Pass data using standard props
+- ✅ Use `children` prop to render reusable JSX
+- ✅ Toggle visibility of content
+- ✅ Fully responsive with Tailwind CSS
+
+
+
+## 📂 Project Structure
+```
+Props-P-C/
+├── public/
+├── src/
+│ ├── components/
+│ │ ├── Card.jsx # Reusable Card using children
+│ │ ├── Child.jsx # Receives text as props
+│ │ └── ChildRender.jsx # Contains logic for passing props
+│ ├── App.jsx
+│ ├── App.css
+│ ├── index.css
+│ └── main.jsx
+├── .gitignore
+├── index.html
+├── package.json
+├── tailwind.config.js
+├── vite.config.js
+└── README.md
+```
+
+## 🚀 Getting Started
+
+Follow these steps to run this project locally:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Anuj-P-06/react-props-children-demo.git
+cd react-props-children-demo
+```
+
+
+
+
+
+
+
