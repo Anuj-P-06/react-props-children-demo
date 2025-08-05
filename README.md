@@ -79,6 +79,7 @@ Tailwind CSS – Utility-first CSS framework
 
 ## ✍️ Author
 Anuj Prasad
+
 📫 [GitHub Profile](https://github.com/Anuj-P-06)
 
 ## 📄 License
