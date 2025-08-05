@@ -3,7 +3,7 @@
 A simple, beginner-friendly React project that demonstrates how to pass **props** from a parent component to a child, and how to use the **React `children` prop** for reusable components.
 
 > Built using **React + Vite + Tailwind CSS**  
-> 🚀 Live Demo: [https://your-live-url.com](https://your-live-url.com) ← *(Replace this once deployed)*
+> 🚀 Live Demo: [https://your-live-url.com](https://react-props-children-demo.vercel.app)
 
 ---
 
@@ -57,9 +57,32 @@ git clone https://github.com/Anuj-P-06/react-props-children-demo.git
 cd react-props-children-demo
 ```
 
+### 2. Install dependencies
 
+```bash
+npm install
+```
 
+### 3. Start the development server
+bash
+Copy
+Edit
+npm run dev
+The app will run at http://localhost:####
 
+## 🛠️ Built With
+React – JavaScript library for building user interfaces
+
+Vite – Fast frontend tooling and build tool
+
+Tailwind CSS – Utility-first CSS framework
+
+## ✍️ Author
+Anuj Prasad
+##📫 [GitHub Profile] (https://github.com/Anuj-P-06)
+
+## 📄 License
+This project is licensed under the MIT License.
 
 
 
